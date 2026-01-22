@@ -1,4 +1,4 @@
-- I’m looking for a job (from $4/hour):
+- I’m looking for a job (from $2/hour):
   - extensions for browsers
   - javascript, typescript, react, nextjs, redux, etc
   - python realated: tg bots, FastAPI, basic ML (numpy/pandas/visualizations)
